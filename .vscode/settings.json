@@ -1,0 +1,5 @@
+{
+    "prettier.embeddedLanguageFormatting": "auto",
+    "editor.formatOnSave": true,
+    "prettier.useTabs": true
+}
